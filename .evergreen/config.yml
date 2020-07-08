@@ -737,10 +737,6 @@ axes:
   - id: os-windows
     display_name: OS
     values:
-      - id: windows-64-vs2010-test
-        display_name: "Windows (VS2010)"
-        run_on: windows-64-vs2010-test
-
       - id: windows-64-vs2013-test
         display_name: "Windows (VS2013)"
         run_on: windows-64-vs2013-test
@@ -760,10 +756,6 @@ axes:
       - id: rhel70
         display_name: "RHEL 7.0"
         run_on: rhel70-small
-
-      - id: debian71-test
-        display_name: "Debian 7.1"
-        run_on: debian71-test
 
   # OSes that support versions of MongoDB>=3.2 with SSL.
   - id: os-requires-32
