@@ -164,7 +164,7 @@ class Aggregate implements Executable, Explainable
         }
 
         $options += [
-            'allowDiskUse' => false,
+            'allowDiskUse' => true,
             'useCursor' => true,
         ];
 
