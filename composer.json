@@ -1,5 +1,5 @@
 {
-    "name": "mongodb/mongodb",
+    "name": "ridown/mongodb-driver",
     "description": "MongoDB driver library",
     "keywords": ["database", "driver", "mongodb", "persistence"],
     "homepage": "https://jira.mongodb.org/browse/PHPLIB",
